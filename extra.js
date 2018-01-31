@@ -12,7 +12,7 @@ var fakeConsole = {
 function longitude(secuencia) {
   return secuencia.length; 
 }
-function rango(s, e) {
+function faixa(s, e) {
   let r = [];
   for (let i = s; i <= e; i++) {
      r.push(i)
