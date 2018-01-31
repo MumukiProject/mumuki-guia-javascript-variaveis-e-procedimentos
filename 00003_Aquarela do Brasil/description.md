@@ -1,4 +1,4 @@
-O que acabamos de fazer com isso? Como Colocar(pedra), `imprimir`  é uma funcionalidade que está sempre disponível. Se chamarmos a função anterior, veremos que, além de devolver o valor 5, imprime duas linhas:
+O que acabamos de fazer com isso? Como `Colocar(pedra)`, `imprimir`  é uma funcionalidade que está sempre disponível. Se chamarmos a função anterior, veremos que, além de devolver o valor 5, imprime duas linhas:
 
 ``` 
 sou uma função que imprime por tela
