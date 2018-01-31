@@ -11,9 +11,9 @@ Ou se queremos um programa que jogue três vezes os dados e imprima seus resulta
 ``` javascript
 imprimir("Jogando dados");
  
-let primeiraJogada = jogarrDado();
-let segundaJogada = jogarrDado();
-let terceiraJogada = jogarrDado();
+let primeiraJogada = jogarDado();
+let segundaJogada = jogarDado();
+let terceiraJogada = jogarDado();
  
 imprimir("A primeira jogada deu " + primeiraJogada);
 imprimir("A segunda jogada deu " + segundaJogada); 
