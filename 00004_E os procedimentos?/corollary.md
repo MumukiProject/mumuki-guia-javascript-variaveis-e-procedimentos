@@ -1,4 +1,4 @@
-Isto pode ser um pouco perturbador :confused:: o JavaScript não diferencia funções de procedimentos: todos podem ter efeitos e todos podem ou não ter um retorno.
+Isto pode ser um pouco perturbador :confused:. O JavaScript não diferencia funções de procedimentos: todos podem ter efeitos e todos podem ou não ter um retorno.
 
 Você é responsável por escrever uma `function` que faça sentido e se comporte como procedimento (sem retorno e com efeito) ou como função (com retorno e sem efeito).
 
